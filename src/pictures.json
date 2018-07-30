@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "image": "../images/pig.png",
+        "image": "./images/pig.png",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "../images/giraffe.png",
+        "image": "./images/giraffe.png",
         "clicked": false
     },
     {
@@ -26,37 +26,37 @@
     },
     {
         "id": 6,
-        "image": "../images/sheep.png",
+        "image": "./images/sheep.png",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "../images/tiger.png",
+        "image": "./images/tiger.png",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "../images/cat.png",
+        "image": "./images/cat.png",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "../images/dog.png",
+        "image": "./images/dog.png",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "../images/lion.png",
+        "image": "./images/lion.png",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "../images/monkey.png",
+        "image": "./images/monkey.png",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "../images/zebra.png",
+        "image": "./images/zebra.png",
         "clicked": false
     }
 
